@@ -1,5 +1,6 @@
 # React Render Memo Demo (Vite + TypeScript)
 
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)](https://react-render-memo-demo.vercel.app)
 ![React](https://img.shields.io/badge/React-18-61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF)
@@ -8,6 +9,12 @@
 A minimal **React render behavior demo** focused on understanding **re-renders**, **memoization with `React.memo`**, and **stable callbacks with `useCallback`**.
 
 This project is intentionally simple and **educational**, designed to clearly show _what re-renders and why_.
+
+---
+
+## Live Demo
+
+🔗 https://react-render-memo-demo.vercel.app
 
 ---
 
