@@ -4,6 +4,7 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/react-render-memo-demo)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A minimal **React render behavior demo** focused on understanding **re-renders**, **memoization with `React.memo`**, and **stable callbacks with `useCallback`**.
@@ -15,6 +16,16 @@ This project is intentionally simple and **educational**, designed to clearly sh
 ## Live Demo
 
 🔗 https://react-render-memo-demo.vercel.app
+
+---
+
+## Deployment
+
+This project is automatically deployed using Vercel with GitHub integration.
+
+- Every push to `main` triggers a production deployment
+- Pull requests generate preview deployments
+- Build, optimization, and hosting are handled by Vercel
 
 ---
 
